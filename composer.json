@@ -1,0 +1,21 @@
+{
+    "name" : "los/losi18n-data",
+    "description" : "Data files for LosI18n module",
+    "suggest": {
+        "los/losi18n": "los/losi18n for countries and languages lists in all languages",
+        "los/losbase": "los/losbase for some abstract classes to speed development ",
+        "los/loslog": "los/loslog for logging",
+        "los/losui": "los/losui for styling your project with bootstrap3 and using jquery/fontawesome/moment/chosen"
+    },        
+    "authors" : [ 
+        {
+            "name" : "Leandro Silva",
+            "email" : "leandro@leandrosilva.info",
+            "homepage" : "http://leandrosilva.info"
+        } 
+    ],
+    "keywords" : [ "los", "i18n", "module", "zf2", "country", "language" ],
+    "license" : "BSD-3-Clause",
+    "type" : "library",
+    "homepage" : "http://github.com/Lansoweb/losI18n-data"
+}

@@ -1,1 +1,1 @@
-Sample, skeleton module for use with the ZF2 MVC layer.
+Data files pro [LosI18n](https://github.com/Lansoweb/LosI18n).
