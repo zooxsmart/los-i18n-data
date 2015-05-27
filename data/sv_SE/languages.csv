@@ -1,291 +1,185 @@
 iso,name
-001,världen
-002,Afrika
-003,Nordamerika
-005,Sydamerika
-009,Oceanien
-011,Västafrika
-013,Centralamerika
-014,Östafrika
-015,Nordafrika
-017,Centralafrika
-018,"södra Afrika"
-019,"Nord- och Sydamerika"
-021,"norra Amerika"
-029,Karibien
-030,Östasien
-034,Sydasien
-035,Sydostasien
-039,Sydeuropa
-053,Australasien
-054,Melanesien
-057,"Mikronesiska öarna"
-061,Polynesien
-0,Asien
-1,Centralasien
-2,Västasien
-3,Europa
-4,Östeuropa
-5,Nordeuropa
-6,Västeuropa
-7,Latinamerika
-AC,Ascension
-AD,Andorra
-AE,"Förenade Arabemiraten"
-AF,Afghanistan
-AG,"Antigua och Barbuda"
-AI,Anguilla
-AL,Albanien
-AM,Armenien
-AN,"Nederländska Antillerna"
-AO,Angola
-AQ,Antarktis
-AR,Argentina
-AS,"Amerikanska Samoa"
-AT,Österrike
-AU,Australien
-AW,Aruba
-AX,Åland
-AZ,Azerbajdzjan
-BA,"Bosnien och Hercegovina"
-BB,Barbados
-BD,Bangladesh
-BE,Belgien
-BF,"Burkina Faso"
-BG,Bulgarien
-BH,Bahrain
-BI,Burundi
-BJ,Benin
-BL,"S:t Barthélemy"
-BM,Bermuda
-BN,Brunei
-BO,Bolivia
-BQ,"Karibiska Nederländerna"
-BR,Brasilien
-BS,Bahamas
-BT,Bhutan
-BV,Bouvetön
-BW,Botswana
-BY,Vitryssland
-BZ,Belize
-CA,Kanada
-CC,Kokosöarna
-CD,"Demokratiska republiken Kongo"
-CF,"Centralafrikanska republiken"
-CG,"Republiken Kongo"
-CH,Schweiz
-CI,Elfenbenskusten
-CK,Cooköarna
-CL,Chile
-CM,Kamerun
-CN,Kina
-CO,Colombia
-CP,Clippertonön
-CR,"Costa Rica"
-CU,Kuba
-CV,"Kap Verde"
-CW,Curaçao
-CX,Julön
-CY,Cypern
-CZ,Tjeckien
-DE,Tyskland
-DG,"Diego Garcia"
-DJ,Djibouti
-DK,Danmark
-DM,Dominica
-DO,"Dominikanska republiken"
-DZ,Algeriet
-EA,"Ceuta och Melilla"
-EC,Ecuador
-EE,Estland
-EG,Egypten
-EH,Västsahara
-ER,Eritrea
-ES,Spanien
-ET,Etiopien
-EU,"Europeiska unionen"
-FI,Finland
-FJ,Fiji
-FK,"Falklandsöarna (Malvinerna)"
-FM,Mikronesien
-FO,Färöarna
-FR,Frankrike
-GA,Gabon
-GB,Storbritannien
-GD,Grenada
-GE,Georgien
-GF,"Franska Guyana"
-GG,Guernsey
-GH,Ghana
-GI,Gibraltar
-GL,Grönland
-GM,Gambia
-GN,Guinea
-GP,Guadeloupe
-GQ,Ekvatorialguinea
-GR,Grekland
-GS,"Sydgeorgien och Sydsandwichöarna"
-GT,Guatemala
-GU,Guam
-GW,Guinea-Bissau
-GY,Guyana
-HK,Hongkong
-HM,"Heardön och McDonaldöarna"
-HN,Honduras
-HR,Kroatien
-HT,Haiti
-HU,Ungern
-IC,Kanarieöarna
-ID,Indonesien
-IE,Irland
-IL,Israel
-IM,"Isle of Man"
-IN,Indien
-IO,"Brittiska territoriet i Indiska oceanen"
-IQ,Irak
-IR,Iran
-IS,Island
-IT,Italien
-JE,Jersey
-JM,Jamaica
-JO,Jordanien
-JP,Japan
-KE,Kenya
-KG,Kirgizistan
-KH,Kambodja
-KI,Kiribati
-KM,Komorerna
-KN,"S:t Kitts och Nevis"
-KP,Nordkorea
-KR,Sydkorea
-KW,Kuwait
-KY,Caymanöarna
-KZ,Kazakstan
-LA,Laos
-LB,Libanon
-LC,"S:t Lucia"
-LI,Liechtenstein
-LK,"Sri Lanka"
-LR,Liberia
-LS,Lesotho
-LT,Litauen
-LU,Luxemburg
-LV,Lettland
-LY,Libyen
-MA,Marocko
-MC,Monaco
-MD,Moldavien
-ME,Montenegro
-MF,"S:t Martin"
-MG,Madagaskar
-MH,Marshallöarna
-MK,"f.d. jugoslaviska republiken Makedonien"
-ML,Mali
-MM,"Myanmar (Burma)"
-MN,Mongoliet
-MO,Macao
-MP,Nordmarianerna
-MQ,Martinique
-MR,Mauretanien
-MS,Montserrat
-MT,Malta
-MU,Mauritius
-MV,Maldiverna
-MW,Malawi
-MX,Mexiko
-MY,Malaysia
-MZ,Moçambique
-NA,Namibia
-NC,"Nya Kaledonien"
-NE,Niger
-NF,Norfolkön
-NG,Nigeria
-NI,Nicaragua
-NL,Nederländerna
-NO,Norge
-NP,Nepal
-NR,Nauru
-NU,Niue
-NZ,"Nya Zeeland"
-OM,Oman
-PA,Panama
-PE,Peru
-PF,"Franska Polynesien"
-PG,"Papua Nya Guinea"
-PH,Filippinerna
-PK,Pakistan
-PL,Polen
-PM,"S:t Pierre och Miquelon"
-PN,Pitcairnöarna
-PR,"Puerto Rico"
-PS,Palestina
-PT,Portugal
-PW,Palau
-PY,Paraguay
-QA,Qatar
-QO,"yttre öar i Oceanien"
-RE,Réunion
-RO,Rumänien
-RS,Serbien
-RU,Ryssland
-RW,Rwanda
-SA,Saudiarabien
-SB,Salomonöarna
-SC,Seychellerna
-SD,Sudan
-SE,Sverige
-SG,Singapore
-SH,"S:t Helena"
-SI,Slovenien
-SJ,"Svalbard och Jan Mayen"
-SK,Slovakien
-SL,"Sierra Leone"
-SM,"San Marino"
-SN,Senegal
-SO,Somalia
-SR,Surinam
-SS,Sydsudan
-ST,"São Tomé och Príncipe"
-SV,"El Salvador"
-SX,"Sint Maarten"
-SY,Syrien
-SZ,Swaziland
-TA,"Tristan da Cunha"
-TC,"Turks- och Caicosöarna"
-TD,Tchad
-TF,"Franska sydterritorierna"
-TG,Togo
-TH,Thailand
-TJ,Tadzjikistan
-TK,Tokelau
-TL,Östtimor
-TM,Turkmenistan
-TN,Tunisien
-TO,Tonga
-TR,Turkiet
-TT,"Trinidad och Tobago"
-TV,Tuvalu
-TW,Taiwan
-TZ,Tanzania
-UA,Ukraina
-UG,Uganda
-UM,"USA:s yttre öar"
-US,USA
-UY,Uruguay
-UZ,Uzbekistan
-VA,Vatikanstaten
-VC,"S:t Vincent och Grenadinerna"
-VE,Venezuela
-VG,"Brittiska Jungfruöarna"
-VI,"Amerikanska Jungfruöarna"
-VN,Vietnam
-VU,Vanuatu
-WF,"Wallis- och Futunaöarna"
-WS,Samoa
-XK,Kosovo
-YE,Jemen
-YT,Mayotte
-ZA,Sydafrika
-ZM,Zambia
-ZW,Zimbabwe
-ZZ,"okänd region"
+aa,afar
+ab,abchaziska
+ae,avestiska
+af,afrikaans
+ak,akan
+am,amhariska
+an,aragonesiska
+ar,arabiska
+as,assamesiska
+av,avariska
+ay,aymara
+az,azeriska
+ba,basjkiriska
+be,vitryska
+bg,bulgariska
+bi,bislama
+bm,bambara
+bn,bengali
+bo,tibetanska
+br,bretonska
+bs,bosniska
+ca,katalanska
+ce,tjetjenska
+ch,chamorro
+co,korsikanska
+cr,cree
+cs,tjeckiska
+cu,kyrkslaviska
+cv,tjuvasjiska
+cy,walesiska
+da,danska
+de,tyska
+dv,divehi
+dz,bhutanesiska
+ee,ewe
+el,grekiska
+en,engelska
+eo,esperanto
+es,spanska
+et,estniska
+eu,baskiska
+fa,persiska
+ff,fulani
+fi,finska
+fj,fijianska
+fo,färöiska
+fr,franska
+fy,västfrisiska
+ga,iriska
+gd,"skotsk gäliska"
+gl,galiciska
+gn,guaraní
+gu,gujarati
+gv,manx
+ha,hausa
+he,hebreiska
+hi,hindi
+ho,hirimotu
+hr,kroatiska
+ht,haitiska
+hu,ungerska
+hy,armeniska
+hz,herero
+ia,interlingua
+id,indonesiska
+ie,interlingue
+ig,igbo
+ii,"szezuan i"
+ik,inupiak
+io,ido
+is,isländska
+it,italienska
+iu,inuktitut
+ja,japanska
+jv,javanesiska
+ka,georgiska
+kg,kikongo
+ki,kikuyu
+kj,kuanyama
+kk,kazakiska
+kl,grönländska
+km,kambodjanska
+kn,kannada
+ko,koreanska
+kr,kanuri
+ks,kashmiriska
+ku,kurdiska
+kv,kome
+kw,korniska
+ky,kirgisiska
+la,latin
+lb,luxemburgiska
+lg,luganda
+li,limburgiska
+ln,lingala
+lo,laotiska
+lt,litauiska
+lu,luba-katanga
+lv,lettiska
+mg,malagassiska
+mh,marshalliska
+mi,maori
+mk,makedonska
+ml,malayalam
+mn,mongoliska
+mr,marathi
+ms,malajiska
+mt,maltesiska
+my,burmesiska
+na,nauru
+nb,"norskt bokmål"
+nd,nordndebele
+ne,nepalesiska
+ng,ndonga
+nl,nederländska
+nn,nynorska
+no,norska
+nr,sydndebele
+nv,navaho
+ny,nyanja
+oc,occitanska
+oj,odjibwa
+om,oromo
+or,oriya
+os,ossetiska
+pa,punjabi
+pi,pali
+pl,polska
+ps,pashto
+pt,portugisiska
+qu,quechua
+rm,rätoromanska
+rn,rundi
+ro,rumänska
+ru,ryska
+rw,kinjarwanda
+sa,sanskrit
+sc,sardiska
+sd,sindhi
+se,nordsamiska
+sg,sango
+sh,serbokroatiska
+si,singalesiska
+sk,slovakiska
+sl,slovenska
+sm,samoanska
+sn,shona
+so,somaliska
+sq,albanska
+sr,serbiska
+ss,swati
+st,sydsotho
+su,sundanesiska
+sv,svenska
+sw,swahili
+ta,tamil
+te,telugiska
+tg,tadzjikiska
+th,thailändska
+ti,tigrinja
+tk,turkmeniska
+tl,tagalog
+tn,tswana
+to,tonganska
+tr,turkiska
+ts,tsonga
+tt,tatariska
+tw,twi
+ty,tahitiska
+ug,östturkiska
+uk,ukrainska
+ur,urdu
+uz,uzbekiska
+ve,venda
+vi,vietnamesiska
+vo,volapük
+wa,vallonska
+wo,wolof
+xh,xhosa
+yi,jiddisch
+yo,yoruba
+za,zhuang
+zh,kinesiska
+zu,zulu

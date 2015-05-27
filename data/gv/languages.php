@@ -1,4 +1,4 @@
-<?php return array (
-  'GB' => 'Rywvaneth Unys',
-  'IM' => 'Ellan Vannin',
-);
+<?php
+return [
+    'gv' => 'Gaelg',
+];

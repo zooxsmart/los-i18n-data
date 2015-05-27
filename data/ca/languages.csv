@@ -1,291 +1,185 @@
 iso,name
-001,Món
-002,Àfrica
-003,"Amèrica del Nord"
-005,"Amèrica del Sud"
-009,Oceania
-011,"Àfrica occidental"
-013,"Amèrica Central"
-014,"Àfrica oriental"
-015,"Àfrica septentrional"
-017,"Àfrica central"
-018,"Àfrica meridional"
-019,Amèrica
-021,"Amèrica septentrional"
-029,Carib
-030,"Àsia oriental"
-034,"Àsia meridional"
-035,"Àsia sud-oriental"
-039,"Europa meridional"
-053,Australàsia
-054,Melanèsia
-057,"Regió de la Micronèsia"
-061,Polinèsia
-142,Àsia
-143,"Àsia central"
-145,"Àsia occidental"
-150,Europa
-151,"Europa oriental"
-154,"Europa septentrional"
-155,"Europa occidental"
-419,"Amèrica Llatina"
-AC,"illa de l’Ascensió"
-AD,Andorra
-AE,"Emirats Àrabs Units"
-AF,Afganistan
-AG,"Antigua i Barbuda"
-AI,Anguilla
-AL,Albània
-AM,Armènia
-AN,"Antilles Neerlandeses"
-AO,Angola
-AQ,Antàrtida
-AR,Argentina
-AS,"Samoa Nord-americana"
-AT,Àustria
-AU,Austràlia
-AW,Aruba
-AX,"illes Åland"
-AZ,Azerbaidjan
-BA,"Bòsnia i Hercegovina"
-BB,Barbados
-BD,"Bangla Desh"
-BE,Bèlgica
-BF,"Burkina Faso"
-BG,Bulgària
-BH,Bahrain
-BI,Burundi
-BJ,Benín
-BL,"Saint Barthélemy"
-BM,Bermudes
-BN,Brunei
-BO,Bolívia
-BQ,"Carib Neerlandès"
-BR,Brasil
-BS,Bahames
-BT,Bhutan
-BV,Bouvet
-BW,Botswana
-BY,Bielorússia
-BZ,Belize
-CA,Canadà
-CC,"illes Cocos"
-CD,"Congo (República Democràtica del Congo)"
-CF,"República Centreafricana"
-CG,"Congo (República del Congo)"
-CH,Suïssa
-CI,"Costa d’Ivori"
-CK,"illes Cook"
-CL,Xile
-CM,Camerun
-CN,Xina
-CO,Colòmbia
-CP,"illa Clipperton"
-CR,"Costa Rica"
-CU,Cuba
-CV,"Cap Verd"
-CW,Curaçao
-CX,"illa Christmas"
-CY,Xipre
-CZ,"República Txeca"
-DE,Alemanya
-DG,"Diego Garcia"
-DJ,Djibouti
-DK,Dinamarca
-DM,Dominica
-DO,"República Dominicana"
-DZ,Algèria
-EA,"Ceuta i Melilla"
-EC,Equador
-EE,Estònia
-EG,Egipte
-EH,"Sàhara Occidental"
-ER,Eritrea
-ES,Espanya
-ET,Etiòpia
-EU,"Unió Europea"
-FI,Finlàndia
-FJ,Fiji
-FK,"Illes Malvines (Illes Falkland)"
-FM,Micronèsia
-FO,"illes Fèroe"
-FR,França
-GA,Gabon
-GB,GB
-GD,Grenada
-GE,Geòrgia
-GF,"Guaiana Francesa"
-GG,Guernsey
-GH,Ghana
-GI,Gibraltar
-GL,Grenlàndia
-GM,Gàmbia
-GN,Guinea
-GP,Guadeloupe
-GQ,"Guinea Equatorial"
-GR,Grècia
-GS,"illes Geòrgia del Sud i Sandwich del Sud"
-GT,Guatemala
-GU,Guam
-GW,"Guinea Bissau"
-GY,Guyana
-HK,"Hong Kong"
-HM,"Illa Heard i Illes McDonald"
-HN,Hondures
-HR,Croàcia
-HT,Haití
-HU,Hongria
-IC,"illes Canàries"
-ID,Indonèsia
-IE,Irlanda
-IL,Israel
-IM,"illa de Man"
-IN,Índia
-IO,"Territori Britànic de l’Oceà Índic"
-IQ,Iraq
-IR,Iran
-IS,Islàndia
-IT,Itàlia
-JE,Jersey
-JM,Jamaica
-JO,Jordània
-JP,Japó
-KE,Kenya
-KG,Kirguizistan
-KH,Cambodja
-KI,Kiribati
-KM,Comores
-KN,"Saint Christopher i Nevis"
-KP,"Corea del Nord"
-KR,"Corea del Sud"
-KW,Kuwait
-KY,"Illes Caiman"
-KZ,Kazakhstan
-LA,Laos
-LB,Líban
-LC,"Saint Lucia"
-LI,Liechtenstein
-LK,"Sri Lanka"
-LR,Libèria
-LS,Lesotho
-LT,Lituània
-LU,Luxemburg
-LV,Letònia
-LY,Líbia
-MA,Marroc
-MC,Mònaco
-MD,Moldàvia
-ME,Montenegro
-MF,"Saint Martin"
-MG,Madagascar
-MH,"illes Marshall"
-MK,"Macedònia (Antiga República Iugoslava de Macedònia)"
-ML,Mali
-MM,"Myanmar (Birmània)"
-MN,Mongòlia
-MO,Macau
-MP,"illes Mariannes del Nord"
-MQ,Martinica
-MR,Mauritània
-MS,Montserrat
-MT,Malta
-MU,Maurici
-MV,Maldives
-MW,Malawi
-MX,Mèxic
-MY,Malàisia
-MZ,Moçambic
-NA,Namíbia
-NC,"Nova Caledònia"
-NE,Níger
-NF,Norfolk
-NG,Nigèria
-NI,Nicaragua
-NL,"Països Baixos"
-NO,Noruega
-NP,Nepal
-NR,Nauru
-NU,Niue
-NZ,"Nova Zelanda"
-OM,Oman
-PA,Panamà
-PE,Perú
-PF,"Polinèsia Francesa"
-PG,"Papua Nova Guinea"
-PH,Filipines
-PK,Pakistan
-PL,Polònia
-PM,Saint-Pierre-et-Miquelon
-PN,"illes Pitcairn"
-PR,"Puerto Rico"
-PS,Palestina
-PT,Portugal
-PW,Palau
-PY,Paraguai
-QA,Qatar
-QO,"Territoris allunyats d’Oceania"
-RE,"Illa de la Reunió"
-RO,Romania
-RS,Sèrbia
-RU,Rússia
-RW,Ruanda
-SA,"Aràbia Saudita"
-SB,"illes Salomó"
-SC,Seychelles
-SD,Sudan
-SE,Suècia
-SG,Singapur
-SH,"Saint Helena"
-SI,Eslovènia
-SJ,"Svalbard i Jan Mayen"
-SK,Eslovàquia
-SL,"Sierra Leone"
-SM,"San Marino"
-SN,Senegal
-SO,Somàlia
-SR,Surinam
-SS,"Sudan del Sud"
-ST,"São Tomé i Príncipe"
-SV,"El Salvador"
-SX,"Sint Maarten"
-SY,Síria
-SZ,Swazilàndia
-TA,"Tristão da Cunha"
-TC,"Illes Turks i Caicos"
-TD,Txad
-TF,"Territoris Francesos del Sud"
-TG,Togo
-TH,Tailàndia
-TJ,Tadjikistan
-TK,Tokelau
-TL,"Timor Oriental"
-TM,Turkmenistan
-TN,Tunísia
-TO,Tonga
-TR,Turquia
-TT,"Trinitat i Tobago"
-TV,Tuvalu
-TW,Taiwan
-TZ,Tanzània
-UA,Ucraïna
-UG,Uganda
-UM,"illes Perifèriques Menors dels EUA"
-US,EUA
-UY,Uruguai
-UZ,Uzbekistan
-VA,"Ciutat del Vaticà"
-VC,"Saint Vincent i les Grenadines"
-VE,Veneçuela
-VG,"Illes Verges Britàniques"
-VI,"Illes Verges Nord-americanes"
-VN,Vietnam
-VU,Vanuatu
-WF,"Wallis i Futuna"
-WS,Samoa
-XK,Kosovo
-YE,Iemen
-YT,Mayotte
-ZA,"República de Sud-àfrica"
-ZM,Zàmbia
-ZW,Zimbàbue
-ZZ,"Regió desconeguda"
+aa,àfar
+ab,abkhaz
+ae,avèstic
+af,afrikaans
+ak,àkan
+am,amhàric
+an,aragonès
+ar,àrab
+as,assamès
+av,àvar
+ay,aimara
+az,àzeri
+ba,baixkir
+be,bielorús
+bg,búlgar
+bi,bislama
+bm,bambara
+bn,bengalí
+bo,tibetà
+br,bretó
+bs,bosnià
+ca,català
+ce,txetxè
+ch,chamorro
+co,cors
+cr,cree
+cs,txec
+cu,"eslau eclesiàstic"
+cv,txuvaix
+cy,gal·lès
+da,danès
+de,alemany
+dv,divehi
+dz,dzongka
+ee,ewe
+el,grec
+en,anglès
+eo,esperanto
+es,espanyol
+et,estonià
+eu,basc
+fa,persa
+ff,ful
+fi,finès
+fj,fijià
+fo,feroès
+fr,francès
+fy,"frisó oriental"
+ga,irlandès
+gd,"gaèlic escocès"
+gl,gallec
+gn,guaraní
+gu,gujarati
+gv,manx
+ha,haussa
+he,hebreu
+hi,hindi
+ho,"hiri motu"
+hr,croat
+ht,haitià
+hu,hongarès
+hy,armeni
+hz,herero
+ia,interlingua
+id,indonesi
+ie,interlingue
+ig,igbo
+ii,"yi sichuan"
+ik,inupiak
+io,ido
+is,islandès
+it,italià
+iu,inuktitut
+ja,japonès
+jv,javanès
+ka,georgià
+kg,kongo
+ki,kikuiu
+kj,kuanyama
+kk,kazakh
+kl,grenlandès
+km,khmer
+kn,kannada
+ko,coreà
+kr,kanuri
+ks,caixmiri
+ku,kurd
+kv,komi
+kw,còrnic
+ky,kirguís
+la,llatí
+lb,luxemburguès
+lg,ganda
+li,limburguès
+ln,lingala
+lo,laosià
+lt,lituà
+lu,"luba katanga"
+lv,letó
+mg,malgaix
+mh,marshallès
+mi,maori
+mk,macedoni
+ml,malaiàlam
+mn,mongol
+mr,marathi
+ms,malai
+mt,maltès
+my,birmà
+na,nauruà
+nb,"noruec bokmål"
+nd,"ndebele septentrional"
+ne,nepalès
+ng,ndonga
+nl,neerlandès
+nn,"noruec nynorsk"
+no,noruec
+nr,"ndebele meridional"
+nv,navaho
+ny,nyanja
+oc,occità
+oj,ojibwa
+om,oromo
+or,oriya
+os,osset
+pa,panjabi
+pi,pali
+pl,polonès
+ps,pushtu
+pt,portuguès
+qu,quítxua
+rm,retoromànic
+rn,rundi
+ro,romanès
+ru,rus
+rw,ruandès
+sa,sànscrit
+sc,sard
+sd,sindhi
+se,"sami septentrional"
+sg,sango
+sh,serbocroat
+si,singalès
+sk,eslovac
+sl,eslovè
+sm,samoà
+sn,shona
+so,somali
+sq,albanès
+sr,serbi
+ss,siswati
+st,"sotho meridional"
+su,sundanès
+sv,suec
+sw,suahili
+ta,tàmil
+te,telugu
+tg,tadjik
+th,tailandès
+ti,tigrinya
+tk,turcman
+tl,tagàlog
+tn,tswana
+to,tongalès
+tr,turc
+ts,tsonga
+tt,tàtar
+tw,twi
+ty,tahitià
+ug,uigur
+uk,ucraïnès
+ur,urdú
+uz,uzbek
+ve,venda
+vi,vietnamita
+vo,volapük
+wa,való
+wo,wòlof
+xh,xosa
+yi,jiddisch
+yo,ioruba
+za,zhuang
+zh,xinès
+zu,zulu
