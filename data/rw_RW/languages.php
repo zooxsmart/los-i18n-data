@@ -70,6 +70,8 @@ return [
     'pl' => 'Igipolone',
     'ps' => 'Impashito',
     'pt' => 'Igiporutugali',
+    'pt_BR' => 'Inyeporutigali (Brezili)',
+    'pt_PT' => 'Inyeporutigali (Igiporutigali)',
     'ro' => 'Ikinyarumaniya',
     'ru' => 'Ikirusiya',
     'rw' => 'Kinyarwanda',

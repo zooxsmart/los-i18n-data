@@ -20,12 +20,20 @@ cs,chexcha
 cy,uelscha
 da,datcha
 de,nemischa
+de_AT,"Avstriya olmonchasi"
+de_CH,"Shvesariya olmonchasi"
 dz,yovoncha
 ee,ivicha
 el,yunoncha
 en,inglizcha
+en_AU,"Avstraliya inglizchasi"
+en_CA,"Kanada inglizchasi"
+en_GB,"Britaniya inglizchasi"
+en_US,"inglizcha (AQSH)"
 eo,esperantocha
 es,ispancha
+es_ES,"Yevropa ispanchasi"
+es_MX,"Meksika ispanchasi"
 et,estoncha
 eu,baskcha
 fa,forscha
@@ -33,6 +41,8 @@ fi,fincha
 fj,fijcha
 fo,farercha
 fr,fransuzcha
+fr_CA,"Kanada fransuzchasi"
+fr_CH,"Shvesariya fransuzchasi"
 fy,"gʻarbiy friziancha"
 ga,irlandcha
 gl,galitsiycha
@@ -86,6 +96,7 @@ nb,"norvegcha bokmal"
 nd,"shimoliy ndebelcha"
 ne,nepalcha
 nl,gollandcha
+nl_BE,flamandcha
 nn,"norvegcha ninorsk"
 om,oromocha
 or,oriycha
@@ -93,10 +104,13 @@ pa,panjobcha
 pl,polyakcha
 ps,"pushtu tili"
 pt,portugalcha
+pt_BR,"Braziliya portugalchasi"
+pt_PT,"Yevropa portugalchasi"
 qu,qvechuancha
 rm,romancha
 rn,rundcha
 ro,rumincha
+ro_MD,"moldovan rumincha"
 ru,ruscha
 rw,kinyarvandcha
 sa,sanskritcha

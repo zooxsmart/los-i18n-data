@@ -21,13 +21,20 @@ cs,isi-Czech
 cy,isi-Welsh
 da,isi-Danish
 de,isi-German
+de_AT,"isi-Austrian German"
+de_CH,"isi-Swiss High German"
 dv,isi-Divehi
 dz,isi-Dzongkha
 ee,Isi-Ewe
 el,isi-Greek
 en,i-English
+en_AU,"isi-Austrillian English"
+en_CA,"i-Canadian English"
+en_GB,"i-U.K Englishi"
+en_US,"i-English (US)"
 eo,isi-Esperanto
 es,isi-Spanish
+es_MX,"isi-Mexican Spanish"
 et,isi-Estonia
 eu,isi-Basque
 fa,isi-Persian
@@ -35,6 +42,8 @@ fi,isi-Finnish
 fj,isi-Fijian
 fo,isi-Faroese
 fr,isi-French
+fr_CA,"isi-Canadian French"
+fr_CH,"isi-Swiss French"
 fy,"isi-Western Frisian"
 ga,isi-Irish
 gd,"i-Scottish Gaelic"
@@ -92,6 +101,7 @@ nb,"isi-Norwegian Bokmål"
 nd,"isi-North Ndebele"
 ne,isi-Nepali
 nl,isi-Dutch
+nl_BE,isi-Flemish
 nn,"i-Norwegian Nynorsk"
 no,IsiNoweyi
 ny,isi-Nyanja
@@ -103,10 +113,13 @@ pa,isi-Punjabi
 pl,isi-Polish
 ps,isi-Pushto
 pt,isi-Portuguese
+pt_BR,"isi-Brazillian Portuguese"
+pt_PT,"isi-European Portuguese"
 qu,isi-Quechua
 rm,isi-Romansh
 rn,isi-Rundi
 ro,isi-Romanian
+ro_MD,isi-Moldavian
 ru,isi-Russian
 rw,isi-Kinyarwanda
 sa,isi-Sanskrit

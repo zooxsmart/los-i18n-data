@@ -31,13 +31,17 @@ cv,tšuvaši
 cy,kõmri
 da,taani
 de,saksa
+de_CH,"saksa (kõrgsaksa)"
 dv,maldiivi
 dz,dzongkha
 ee,eve
 el,kreeka
 en,inglise
+en_GB,"inglise (Briti)"
+en_US,"inglise (USA)"
 eo,esperanto
 es,hispaania
+es_ES,"hispaania (Euroopa)"
 et,eesti
 eu,baski
 fa,pärsia
@@ -114,6 +118,7 @@ nd,põhjandebele
 ne,nepali
 ng,ndonga
 nl,hollandi
+nl_BE,flaami
 nn,"norra nynorsk"
 no,norra
 nr,lõunandebele
@@ -129,10 +134,12 @@ pi,paali
 pl,poola
 ps,puštu
 pt,portugali
+pt_PT,"portugali (Euroopa)"
 qu,ketšua
 rm,retoromaani
 rn,rundi
 ro,rumeenia
+ro_MD,moldova
 ru,vene
 rw,ruanda
 sa,sanskriti

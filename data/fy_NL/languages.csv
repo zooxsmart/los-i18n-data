@@ -31,13 +31,21 @@ cv,Tsjoevasjysk
 cy,Welsk
 da,Deensk
 de,Dútsk
+de_AT,"Eastenryks Dútsk"
+de_CH,"Switsersk Heechdútsk"
 dv,Divehi
 dz,Dzongkha
 ee,Ewe
 el,Gryks
 en,Ingelsk
+en_AU,"Australysk Ingelsk"
+en_CA,"Kanadeesk Ingelsk"
+en_GB,"Britsk Ingelsk"
+en_US,"Amerikaansk Ingelsk"
 eo,Esperanto
 es,Spaansk
+es_ES,"Europeesk Spaansk"
+es_MX,"Meksikaansk Spaansk"
 et,Estlânsk
 eu,Baskysk
 fa,Perzysk
@@ -46,6 +54,8 @@ fi,Finsk
 fj,Fijysk
 fo,Faeröersk
 fr,Frânsk
+fr_CA,"Kanadeesk Frânsk"
+fr_CH,"Switserse Frânsk"
 fy,West-Frysk
 ga,Iersk
 gd,"Schotsk Gaelic"
@@ -114,6 +124,7 @@ nd,Noard-Ndbele
 ne,Nepalees
 ng,Ndonga
 nl,Nederlânsk
+nl_BE,Vlaams
 nn,"Noors - Nynorsk"
 no,Noors
 nr,Sûd-Ndbele
@@ -129,10 +140,13 @@ pi,Pali
 pl,Poalsk
 ps,Pashto
 pt,Portugeesk
+pt_BR,"Brazyljaansk Portugees"
+pt_PT,"Europees Portugees"
 qu,Quechua
 rm,Reto-Romaansk
 rn,Kirundi
 ro,Roemeensk
+ro_MD,Moldavysk
 ru,Russysk
 rw,Kinyarwanda
 sa,Sanskriet

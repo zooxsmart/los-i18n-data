@@ -31,13 +31,21 @@ cv,czuwaski
 cy,walijski
 da,duński
 de,niemiecki
+de_AT,"austriacki niemiecki"
+de_CH,"wysokoniemiecki (Szwajcaria)"
 dv,malediwski
 dz,dzongkha
 ee,ewe
 el,grecki
 en,angielski
+en_AU,"australijski angielski"
+en_CA,"kanadyjski angielski"
+en_GB,"angielski (GB)"
+en_US,"angielski (USA)"
 eo,esperanto
 es,hiszpański
+es_ES,"europejski hiszpański"
+es_MX,"meksykański hiszpański"
 et,estoński
 eu,baskijski
 fa,perski
@@ -46,6 +54,8 @@ fi,fiński
 fj,fidżijski
 fo,farerski
 fr,francuski
+fr_CA,"kanadyjski francuski"
+fr_CH,"szwajcarski francuski"
 fy,zachodniofryzyjski
 ga,irlandzki
 gd,"szkocki gaelicki"
@@ -114,6 +124,7 @@ nd,"ndebele północny"
 ne,nepalski
 ng,ndonga
 nl,niderlandzki
+nl_BE,"flamandzki (Belgia)"
 nn,"norweski (nynorsk)"
 no,norweski
 nr,"ndebele południowy"
@@ -129,10 +140,13 @@ pi,palijski
 pl,polski
 ps,pasztuński
 pt,portugalski
+pt_BR,"brazylijski portugalski"
+pt_PT,"europejski portugalski"
 qu,keczua
 rm,retoromański
 rn,rundi
 ro,rumuński
+ro_MD,mołdawski
 ru,rosyjski
 rw,kinya-ruanda
 sa,sanskryt

@@ -31,13 +31,21 @@ cv,Chuvash
 cy,Welsh
 da,Danish
 de,German
+de_AT,"Austrian German"
+de_CH,"Swiss High German"
 dv,Divehi
 dz,Dzongkha
 ee,Ewe
 el,Greek
 en,English
+en_AU,"Australian English"
+en_CA,"Canadian English"
+en_GB,"UK English"
+en_US,"US English"
 eo,Esperanto
 es,Spanish
+es_ES,"European Spanish"
+es_MX,"Mexican Spanish"
 et,Estonian
 eu,Basque
 fa,Persian
@@ -46,6 +54,8 @@ fi,Finnish
 fj,Fijian
 fo,Faroese
 fr,French
+fr_CA,"Canadian French"
+fr_CH,"Swiss French"
 fy,"Western Frisian"
 ga,Irish
 gd,"Scottish Gaelic"
@@ -114,6 +124,7 @@ nd,"North Ndebele"
 ne,Nepali
 ng,Ndonga
 nl,Dutch
+nl_BE,Flemish
 nn,"Norwegian Nynorsk"
 no,Norwegian
 nr,"South Ndebele"
@@ -129,10 +140,13 @@ pi,Pali
 pl,Polish
 ps,Pushto
 pt,Portuguese
+pt_BR,"Brazilian Portuguese"
+pt_PT,"European Portuguese"
 qu,Quechua
 rm,Romansh
 rn,Rundi
 ro,Romanian
+ro_MD,Moldavian
 ru,Russian
 rw,Kinyarwanda
 sa,Sanskrit

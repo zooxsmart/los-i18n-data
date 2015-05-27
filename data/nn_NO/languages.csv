@@ -31,13 +31,20 @@ cv,tsjuvansk
 cy,walisisk
 da,dansk
 de,tysk
+de_AT,"austerriksk tysk"
+de_CH,"sveitsisk høgtysk"
 dv,divehi
 dz,dzongkha
 ee,ewe
 el,gresk
 en,engelsk
+en_AU,"australisk engelsk"
+en_CA,"kanadisk engelsk"
+en_GB,"britisk engelsk"
+en_US,"engelsk (amerikansk)"
 eo,esperanto
 es,spansk
+es_ES,"iberisk spansk"
 et,estisk
 eu,baskisk
 fa,persisk
@@ -46,6 +53,8 @@ fi,finsk
 fj,fijiansk
 fo,færøysk
 fr,fransk
+fr_CA,"kanadisk fransk"
+fr_CH,"sveitsisk fransk"
 fy,vestfrisisk
 ga,irsk
 gd,skotsk-gælisk
@@ -114,6 +123,7 @@ nd,nord-ndebele
 ne,nepalsk
 ng,ndonga
 nl,nederlandsk
+nl_BE,flamsk
 nn,nynorsk
 no,norsk
 nr,sør-ndebele
@@ -129,10 +139,13 @@ pi,pali
 pl,polsk
 ps,pashto
 pt,portugisisk
+pt_BR,"brasiliansk portugisisk"
+pt_PT,"europeisk portugisisk"
 qu,quechua
 rm,retoromansk
 rn,rundi
 ro,rumensk
+ro_MD,moldavisk
 ru,russisk
 rw,kinjarwanda
 sa,sanskrit

@@ -31,13 +31,21 @@ cv,tchouvatch
 cy,kembraeg
 da,daneg
 de,alamaneg
+de_AT,"alamaneg Aostria"
+de_CH,"alamaneg uhel Suis"
 dv,divehi
 dz,dzongkha
 ee,ewe
 el,gresianeg
 en,saozneg
+en_AU,"saozneg Aostralia"
+en_CA,"saozneg Kanada"
+en_GB,"saozneg R.U."
+en_US,"saozneg S.U."
 eo,esperanteg
 es,spagnoleg
+es_ES,"spagnoleg Europa"
+es_MX,"spagnoleg Mecʼhiko"
 et,estoneg
 eu,euskareg
 fa,perseg
@@ -45,6 +53,8 @@ fi,finneg
 fj,fidjieg
 fo,faeroeg
 fr,galleg
+fr_CA,"galleg Kanada"
+fr_CH,"galleg Suis"
 fy,"frizeg ar Cʼhornôg"
 ga,iwerzhoneg
 gd,skoseg
@@ -111,6 +121,7 @@ nd,"ndebele an Norzh"
 ne,nepaleg
 ng,ndonga
 nl,nederlandeg
+nl_BE,flandrezeg
 nn,"norvegeg nynorsk"
 no,norvegeg
 nr,"ndebele ar Su"
@@ -125,10 +136,13 @@ pi,pali
 pl,poloneg
 ps,pachto
 pt,portugaleg
+pt_BR,"portugaleg Brazil"
+pt_PT,"portugaleg Europa"
 qu,kechuaeg
 rm,romañcheg
 rn,rundi
 ro,roumaneg
+ro_MD,moldoveg
 ru,rusianeg
 rw,kinyarwanda
 sa,sanskriteg

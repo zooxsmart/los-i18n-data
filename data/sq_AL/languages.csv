@@ -20,12 +20,20 @@ cs,çekisht
 cy,uellsisht
 da,danisht
 de,gjermanisht
+de_AT,"gjermanishte austriake"
+de_CH,"gjermanishte zvicerane (dialekti i Alpeve)"
 dz,xongka
 ee,juisht
 el,greqisht
 en,anglisht
+en_AU,"anglishte australiane"
+en_CA,"anglishte kanadeze"
+en_GB,"anglishte britanike"
+en_US,"anglisht (SHBA)"
 eo,esperanto
 es,spanjisht
+es_ES,"spanjishte evropiane"
+es_MX,"spanjishte meksikane"
 et,estonisht
 eu,baskisht
 fa,persisht
@@ -33,6 +41,8 @@ fi,finlandisht
 fj,fixhiane
 fo,faroisht
 fr,frëngjisht
+fr_CA,"frëngjishte kanadeze"
+fr_CH,"frëngjishte zvicerane"
 fy,frizianisht
 ga,irlandezçe
 gd,Galisht
@@ -89,6 +99,7 @@ nb,"bokmalishte norvegjeze"
 nd,"ndebelishte veriore"
 ne,nepalisht
 nl,holandisht
+nl_BE,flamande
 nn,"ninorske norvegjeze"
 no,Norvegjisht
 oc,Oksitanisht
@@ -98,10 +109,13 @@ pa,panxhabe
 pl,polonisht
 ps,pashto
 pt,portugalisht
+pt_BR,"portugalishte braziliane"
+pt_PT,"portugalishte evropiane"
 qu,keçua
 rm,rome
 rn,rundisht
 ro,rumanisht
+ro_MD,moldavishte
 ru,rusisht
 rw,kiniaruandisht
 sa,sanskritisht

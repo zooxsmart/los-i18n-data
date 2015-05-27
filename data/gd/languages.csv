@@ -28,13 +28,21 @@ cu,"Slàbhais na h-Eaglaise"
 cy,Cuimris
 da,Danmhairgis
 de,Gearmailtis
+de_AT,"Gearmailtis na h-Ostaire"
+de_CH,"Àrd-Ghearmailtis na h-Eilbheise"
 dv,Divehi
 dz,Dzongkha
 ee,Ewe
 el,Greugais
 en,Beurla
+en_AU,"Beurla Astràilia"
+en_CA,"Beurla Chanada"
+en_GB,"Beurla na RA"
+en_US,"Beurla nan SA"
 eo,Esperanto
 es,Spàinntis
+es_ES,"Spàinntis Eòrpach"
+es_MX,"Spàinntis Mheagsagach"
 et,Eastoinis
 eu,Basgais
 fa,Farsaidh
@@ -42,6 +50,8 @@ fi,Fionnlannais
 fj,Fìdis
 fo,Fàrothais
 fr,Fraingis
+fr_CA,"Fraingis Chanada"
+fr_CH,"Fraingis Eilbheiseach"
 fy,"Frìoslannais Siarach"
 ga,Gaeilge
 gd,Gàidhlig
@@ -103,6 +113,7 @@ nb,"Bokmål na Nirribhidh"
 nd,"Ndebele Thuathach"
 ne,Neapàilis
 nl,Duitsis
+nl_BE,Flannrais
 nn,"Nynorsk na Nirribhidh"
 no,Nirribhis
 nr,"Ndebele Dheasach"
@@ -116,10 +127,13 @@ pi,Pali
 pl,Pòlainnis
 ps,Pachtu
 pt,Portagailis
+pt_BR,"Portagailis Bhraisileach"
+pt_PT,"Portagailis Eòrpach"
 qu,Ceatsua
 rm,Rumains
 rn,Kirundi
 ro,Romàinis
+ro_MD,Moldobhais
 ru,Ruisis
 rw,Kinyarwanda
 sa,Sanskrit

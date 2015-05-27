@@ -23,13 +23,21 @@ cu,"eslavo eclesiástico"
 cy,galés
 da,dinamarqués
 de,alemán
+de_AT,"alemán de austria"
+de_CH,"alto alemán suízo"
 dv,divehi
 dz,dzongkha
 ee,ewé
 el,grego
 en,inglés
+en_AU,"inglés australiano"
+en_CA,"inglés canadiano"
+en_GB,"inglés R.U."
+en_US,"inglés EUA"
 eo,esperanto
 es,español
+es_ES,castelán
+es_MX,"español de México"
 et,estoniano
 eu,éuscaro
 fa,persa
@@ -37,6 +45,8 @@ fi,finés
 fj,fixiano
 fo,faroés
 fr,francés
+fr_CA,"francés canadiano"
+fr_CH,"francés suízo"
 fy,frisón
 ga,irlandés
 gd,"gaélico escocés"
@@ -93,6 +103,7 @@ nb,"noruegués bokmal"
 nd,"ndebele do norte"
 ne,nepalí
 nl,holandés
+nl_BE,flamenco
 nn,"noruegués nynorsk"
 no,noruegués
 ny,chewa
@@ -104,10 +115,13 @@ pa,punjabi
 pl,polaco
 ps,paxtún
 pt,portugués
+pt_BR,"portugués brasileiro"
+pt_PT,"portugués europeo"
 qu,quechua
 rm,romanche
 rn,rundi
 ro,romanés
+ro_MD,"romanés moldavo"
 ru,ruso
 rw,ruandés
 sa,sánscrito

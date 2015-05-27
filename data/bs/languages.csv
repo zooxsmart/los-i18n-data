@@ -31,13 +31,21 @@ cv,čuvaški
 cy,cy
 da,danski
 de,njemački
+de_AT,"austrijski njemački"
+de_CH,"gornjonjemački (švicarski)"
 dv,divehijski
 dz,džonga
 ee,eve
 el,grčki
 en,engleski
+en_AU,"australski engleski"
+en_CA,"kanadski engleski"
+en_GB,"engleski (UK)"
+en_US,"engleski (SAD)"
 eo,esperanto
 es,španski
+es_ES,"evropski španski"
+es_MX,"meksički španski"
 et,estonski
 eu,baskijski
 fa,perzijski
@@ -46,6 +54,8 @@ fi,finski
 fj,fidžijski
 fo,farski
 fr,francuski
+fr_CA,"kanadski francuski"
+fr_CH,"švajcarski francuski"
 fy,frizijski
 ga,irski
 gd,"škotski galski"
@@ -114,6 +124,7 @@ nd,"sjeverni ndebele"
 ne,nepalski
 ng,ndonga
 nl,holandski
+nl_BE,flamanski
 nn,"norveški njorsk"
 no,norveški
 nr,"južni ndebele"
@@ -133,6 +144,7 @@ qu,kvenča
 rm,reto-romanski
 rn,rundi
 ro,rumunski
+ro_MD,moldavski
 ru,ruski
 rw,kinjarvanda
 sa,sanskrit

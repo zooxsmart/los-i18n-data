@@ -14,6 +14,7 @@ return [
     'kw' => 'kernewek',
     'nl' => 'Iseldiryek',
     'pt' => 'Portyngalek',
+    'pt_BR' => 'Portyngalek Brasil',
     'ru' => 'Russek',
     'zh' => 'Chinek',
 ];

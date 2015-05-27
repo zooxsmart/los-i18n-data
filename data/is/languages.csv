@@ -31,13 +31,21 @@ cv,sjúvas
 cy,velska
 da,danska
 de,þýska
+de_AT,"austurrísk þýska"
+de_CH,"svissnesk háþýska"
 dv,dívehí
 dz,dsongka
 ee,ewe
 el,gríska
 en,enska
+en_AU,"áströlsk enska"
+en_CA,"kanadísk enska"
+en_GB,"bresk enska"
+en_US,"bandarísk enska"
 eo,esperantó
 es,spænska
+es_ES,"evrópsk spænska"
+es_MX,"mexíkósk spænska"
 et,eistneska
 eu,baskneska
 fa,persneska
@@ -46,6 +54,8 @@ fi,finnska
 fj,fídjeyska
 fo,færeyska
 fr,franska
+fr_CA,"kanadísk franska"
+fr_CH,"svissnesk franska"
 fy,vesturfrísneska
 ga,írska
 gd,"skosk gelíska"
@@ -114,6 +124,7 @@ nd,norður-ndebele
 ne,nepalska
 ng,ndonga
 nl,hollenska
+nl_BE,flæmska
 nn,nýnorska
 no,norska
 nr,suðurndebele
@@ -129,10 +140,13 @@ pi,palí
 pl,pólska
 ps,pastú
 pt,portúgalska
+pt_BR,"brasílísk portúgalska"
+pt_PT,"evrópsk portúgalska"
 qu,kvesjúa
 rm,rómanska
 rn,rúndí
 ro,rúmenska
+ro_MD,moldóvska
 ru,rússneska
 rw,kínjarvanda
 sa,sanskrít

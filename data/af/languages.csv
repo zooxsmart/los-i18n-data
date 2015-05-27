@@ -22,11 +22,14 @@ cu,Kerkslawies
 cy,Wallies
 da,Deens
 de,Duits
+de_CH,"Switserse hoog-Duits"
 dv,Divehi
 dz,Dzongkha
 ee,Ewe
 el,Grieks
 en,Engels
+en_GB,"Engels (VK)"
+en_US,"Engels (VSA)"
 eo,Esperanto
 es,Spaans
 et,Estnies
@@ -94,6 +97,7 @@ nb,"Noorse Bokmål"
 nd,Noord-Ndebele
 ne,Nepalees
 nl,Nederlands
+nl_BE,Vlaams
 nn,"Noorweegse Nynorsk"
 no,Noors
 nr,Suid-Ndebele
@@ -110,6 +114,7 @@ qu,Quechua
 rm,Reto-Romaans
 rn,Rundi
 ro,Roemeens
+ro_MD,Moldawies
 ru,Russies
 rw,Rwandees
 sa,Sanskrit

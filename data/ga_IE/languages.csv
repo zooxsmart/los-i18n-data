@@ -30,12 +30,20 @@ cv,Suvaisis
 cy,Breatnais
 da,Danmhairgis
 de,Gearmáinis
+de_AT,"Gearmáinis Ostarach"
+de_CH,"Ard-Ghearmáinis Eilvéiseach"
 dv,Divéihis
 dz,Seoinicis
 el,Gréigis
 en,Béarla
+en_AU,"Béarla Astrálach"
+en_CA,"Béarla Ceanadach"
+en_GB,"Béarla na R.A."
+en_US,"Béarla S.A.M."
 eo,Esperanto
 es,Spáinnis
+es_ES,"Spáinnis Eorpach"
+es_MX,"Spáinnis Mheicsiceach"
 et,Eastóinis
 eu,Bascais
 fa,Peirsis
@@ -44,6 +52,8 @@ fi,Fionlainnis
 fj,Fidsis
 fo,Faróis
 fr,Fraincis
+fr_CA,"Fraincis Cheanadach"
+fr_CH,"Fraincis Eilvéiseach"
 fy,"Freaslainnis Iartharach"
 ga,Gaeilge
 gd,"Gaeilge na hAlban"
@@ -110,6 +120,7 @@ nd,"Ndeibéilis an Tuaiscirt"
 ne,Neipeailis
 ng,Ndongais
 nl,Ollainnis
+nl_BE,Pléimeannais
 nn,Nua-Ioruais
 no,Ioruais
 nr,"Ndeibéilis an Deiscirt"
@@ -125,10 +136,13 @@ pi,Páilis
 pl,Polainnis
 ps,Paistis
 pt,Portaingéilis
+pt_BR,"Portaingéilis na Brasaíle"
+pt_PT,"Portaingéilis Ibéarach"
 qu,Ceatsuais
 rm,Rómainis
 rn,Rúindis
 ro,Rómáinis
+ro_MD,Moldáivis
 ru,Rúisis
 rw,Ciniaruaindis
 sa,Sanscrait

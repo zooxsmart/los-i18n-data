@@ -21,13 +21,16 @@ cs,txekiera
 cy,galesera
 da,daniera
 de,alemana
+de_CH,"aleman garaia (Suitza)"
 dv,divehiera
 dz,dzongkha
 ee,eweera
 el,greziera
 en,ingelesa
+en_US,"ingelesa (AEB)"
 eo,esperantoa
 es,espainiera
+es_ES,"espainiera (Europa)"
 et,estoniera
 eu,euskara
 fa,persiera
@@ -92,6 +95,7 @@ nb,"bokmala (Norvegia)"
 nd,"iparraldeko ndebeleera"
 ne,nepalera
 nl,nederlandera
+nl_BE,flandriera
 nn,"nynorsk norvegiera"
 no,norvegiera
 ny,nyanja
@@ -103,6 +107,7 @@ pa,punjabera
 pl,poloniera
 ps,pashtoera
 pt,portugesa
+pt_PT,"portugesa (Europa)"
 qu,quechuera
 rm,erromantxera
 rn,rundiera

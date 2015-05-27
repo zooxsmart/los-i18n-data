@@ -31,13 +31,21 @@ cv,tšuvassi
 cy,kymri
 da,tanska
 de,saksa
+de_AT,itävallansaksa
+de_CH,sveitsinyläsaksa
 dv,divehi
 dz,dzongkha
 ee,ewe
 el,kreikka
 en,englanti
+en_AU,australianenglanti
+en_CA,kanadanenglanti
+en_GB,"englanti (Britannia)"
+en_US,"englanti (USA)"
 eo,esperanto
 es,espanja
+es_ES,espanjanespanja
+es_MX,meksikonespanja
 et,viro
 eu,baski
 fa,persia
@@ -46,6 +54,8 @@ fi,suomi
 fj,fidži
 fo,fääri
 fr,ranska
+fr_CA,kanadanranska
+fr_CH,sveitsinranska
 fy,länsifriisi
 ga,iiri
 gd,gaeli
@@ -114,6 +124,7 @@ nd,pohjois-ndebele
 ne,nepali
 ng,ndonga
 nl,hollanti
+nl_BE,flaami
 nn,"norjan nynorsk"
 no,norja
 nr,etelä-ndebele
@@ -129,10 +140,13 @@ pi,paali
 pl,puola
 ps,paštu
 pt,portugali
+pt_BR,brasilianportugali
+pt_PT,portugalinportugali
 qu,ketšua
 rm,retoromaani
 rn,rundi
 ro,romania
+ro_MD,moldova
 ru,venäjä
 rw,ruanda
 sa,sanskrit

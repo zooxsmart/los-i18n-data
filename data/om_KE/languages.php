@@ -59,6 +59,8 @@ return [
     'pa' => 'Afaan Punjabii',
     'pl' => 'Afaan Polandii',
     'pt' => 'Afaan Porchugaal',
+    'pt_BR' => 'Afaan Portugali (Braazil)',
+    'pt_PT' => 'Afaan Protuguese',
     'ro' => 'Afaan Romaniyaa',
     'ru' => 'Afaan Rushiyaa',
     'si' => 'Afaan Sinhalese',

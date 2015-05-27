@@ -31,13 +31,20 @@ cv,tschuvasch
 cy,kimric
 da,danais
 de,tudestg
+de_AT,"tudestg austriac"
 dv,maledivic
 dz,dzongkha
 ee,ewe
 el,grec
 en,englais
+en_AU,"englais australian"
+en_CA,"englais canadais"
+en_GB,"englais (GB)"
+en_US,"englais (US)"
 eo,esperanto
 es,spagnol
+es_ES,"spagnol iberic"
+es_MX,"spagnol mexican"
 et,eston
 eu,basc
 fa,persian
@@ -46,6 +53,8 @@ fi,finlandais
 fj,fidschian
 fo,ferrais
 fr,franzos
+fr_CA,"franzos canadais"
+fr_CH,"franzos svizzer"
 fy,fris
 ga,irlandais
 gd,"gaelic scot"
@@ -114,6 +123,7 @@ nd,"ndebele dal nord"
 ne,nepalais
 ng,ndonga
 nl,ollandais
+nl_BE,flam
 nn,"norvegiais nynorsk"
 no,norvegiais
 nr,"ndebele dal sid"
@@ -129,10 +139,13 @@ pi,pali
 pl,polac
 ps,paschto
 pt,portugais
+pt_BR,"portugais brasilian"
+pt_PT,"portugais iberian"
 qu,quechua
 rm,rumantsch
 rn,rundi
 ro,rumen
+ro_MD,moldav
 ru,russ
 rw,kinyarwanda
 sa,sanscrit

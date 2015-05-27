@@ -31,13 +31,21 @@ cv,"çuvaş dili"
 cy,uels
 da,danimarka
 de,alman
+de_AT,"Avstriya almancası"
+de_CH,"İsveçrə yüksək almancası"
 dv,"diveh dili"
 dz,dzonqa
 ee,eve
 el,yunan
 en,ingilis
+en_AU,"Avstraliya ingiliscəsi"
+en_CA,"Kanada ingiliscəsi"
+en_GB,"ingilis (B.K.)"
+en_US,"ingilis (A.B.Ş.)"
 eo,esperanto
 es,ispan
+es_ES,"Kastiliya ispancası"
+es_MX,"Meksika ispancası"
 et,eston
 eu,bask
 fa,fars
@@ -46,6 +54,8 @@ fi,fin
 fj,fici
 fo,farer
 fr,fransız
+fr_CA,"Kanada fransızcası"
+fr_CH,"İsveçrə fransızcası"
 fy,"qərbi friz"
 ga,irland
 gd,"skot gaelik dili"
@@ -114,6 +124,7 @@ nd,"şimali ndebele"
 ne,nepal
 ng,"nqonka dili"
 nl,holland
+nl_BE,flamand
 nn,"nünorsk norveç"
 no,"norveç dili"
 nr,"cənub ndebele dili"
@@ -129,10 +140,13 @@ pi,"pali dili"
 pl,polyak
 ps,puştu
 pt,portuqal
+pt_BR,"Braziliya portuqalcası"
+pt_PT,"Portuqaliya portuqalcası"
 qu,keçua
 rm,retoroman
 rn,rundi
 ro,rumın
+ro_MD,moldav
 ru,rus
 rw,kinyarvanda
 sa,sanskrit

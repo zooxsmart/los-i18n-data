@@ -31,13 +31,21 @@ cv,csuvas
 cy,walesi
 da,dán
 de,német
+de_AT,"osztrák német"
+de_CH,"svájci felnémet"
 dv,divehi
 dz,butáni
 ee,eve
 el,görög
 en,angol
+en_AU,"ausztrál angol"
+en_CA,"kanadai angol"
+en_GB,"angol (UK)"
+en_US,"angol (USA)"
 eo,eszperantó
 es,spanyol
+es_ES,"európai spanyol"
+es_MX,"spanyol (mexikói)"
 et,észt
 eu,baszk
 fa,perzsa
@@ -46,6 +54,8 @@ fi,finn
 fj,fidzsi
 fo,feröeri
 fr,francia
+fr_CA,"kanadai francia"
+fr_CH,"svájci francia"
 fy,fríz
 ga,ír
 gd,"skót gael"
@@ -114,6 +124,7 @@ nd,"északi ndebele"
 ne,nepáli
 ng,ndonga
 nl,holland
+nl_BE,flamand
 nn,"norvég nynorsk"
 no,norvég
 nr,"déli ndebele"
@@ -129,10 +140,13 @@ pi,pali
 pl,lengyel
 ps,pastu
 pt,portugál
+pt_BR,"brazíliai portugál"
+pt_PT,"európai portugál"
 qu,kecsua
 rm,réto-román
 rn,kirundi
 ro,román
+ro_MD,moldvai
 ru,orosz
 rw,kiruanda
 sa,szanszkrit

@@ -17,12 +17,20 @@ cs,čeština
 cy,Cymraeg
 da,dansk
 de,Deutsch
+de_AT,"Österreichisches Deutsch"
+de_CH,"Schweizer Hochdeutsch"
 dz,རྫོང་ཁ
 ee,eʋegbe
 el,Ελληνικά
 en,English
+en_AU,"Australian English"
+en_CA,"Canadian English"
+en_GB,"UK English"
+en_US,"US English"
 eo,esperanto
 es,español
+es_ES,"español de España"
+es_MX,"español de México"
 et,eesti
 eu,euskara
 fa,فارسی
@@ -30,6 +38,8 @@ ff,Pulaar
 fi,suomi
 fo,føroyskt
 fr,français
+fr_CA,"français canadien"
+fr_CH,"français suisse"
 fy,West-Frysk
 ga,Gaeilge
 gd,Gàidhlig
@@ -77,6 +87,7 @@ nb,"norsk bokmål"
 nd,isiNdebele
 ne,नेपाली
 nl,Nederlands
+nl_BE,Vlaams
 nn,nynorsk
 om,Oromoo
 or,ଓଡ଼ିଆ
@@ -85,10 +96,13 @@ pa,ਪੰਜਾਬੀ
 pl,polski
 ps,پښتو
 pt,português
+pt_BR,"português do Brasil"
+pt_PT,"português europeu"
 qu,Runasimi
 rm,rumantsch
 rn,Ikirundi
 ro,română
+ro_MD,moldovenească
 ru,русский
 rw,Kinyarwanda
 se,davvisámegiella

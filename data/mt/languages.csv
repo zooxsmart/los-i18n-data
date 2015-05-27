@@ -36,6 +36,9 @@ dz,Dżongka
 ee,Ewe
 el,Grieg
 en,Ingliż
+en_AU,"Ingliż Awstraljan"
+en_GB,"Ingliż (UK)"
+en_US,"Ingliż (US)"
 eo,Esperanto
 es,Spanjol
 et,Estonjan
@@ -46,6 +49,8 @@ fi,Finlandiż
 fj,Fiġi
 fo,Fawriż
 fr,Franċiż
+fr_CA,"Franċiż Kanadiż"
+fr_CH,"Franċiż Żvizzeru"
 fy,Friżjan
 ga,Irlandiż
 gd,"Galliku Skoċċiż"
@@ -133,6 +138,7 @@ qu,Keċwa
 rm,Reto-Romanz
 rn,Rundi
 ro,Rumen
+ro_MD,Moldavjan
 ru,Russu
 rw,Kinjarwanda
 sa,Sanskrit

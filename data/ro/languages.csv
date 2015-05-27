@@ -31,13 +31,21 @@ cv,ciuvașă
 cy,galeză
 da,daneză
 de,germană
+de_AT,"germană austriacă"
+de_CH,"germană standard elvețiană"
 dv,divehi
 dz,dzongkha
 ee,ewe
 el,greacă
 en,engleză
+en_AU,"engleză australiană"
+en_CA,"engleză canadiană"
+en_GB,"engleză britanică"
+en_US,"engleză (S.U.A)"
 eo,esperanto
 es,spaniolă
+es_ES,"spaniolă europeană"
+es_MX,"spaniolă mexicană"
 et,estoniană
 eu,bască
 fa,persană
@@ -46,6 +54,8 @@ fi,finlandeză
 fj,fijiană
 fo,faroeză
 fr,franceză
+fr_CA,"franceză canadiană"
+fr_CH,"franceză elvețiană"
 fy,"frizonă occidentală"
 ga,irlandeză
 gd,"gaelică scoțiană"
@@ -114,6 +124,7 @@ nd,"ndebele de nord"
 ne,nepaleză
 ng,ndonga
 nl,olandeză
+nl_BE,flamandă
 nn,"norvegiană nynorsk"
 no,norvegiană
 nr,"ndebele de sud"
@@ -129,10 +140,13 @@ pi,pali
 pl,poloneză
 ps,pushto
 pt,portugheză
+pt_BR,"portugheză braziliană"
+pt_PT,"portugheză europeană"
 qu,quechua
 rm,romanșă
 rn,kirundi
 ro,română
+ro_MD,moldovenească
 ru,rusă
 rw,kinyarwanda
 sa,sanscrită

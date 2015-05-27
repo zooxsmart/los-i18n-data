@@ -31,13 +31,21 @@ cv,Tsjoevasjisch
 cy,Welsh
 da,Deens
 de,Duits
+de_AT,"Oostenrijks Duits"
+de_CH,"Zwitsers Hoogduits"
 dv,Divehi
 dz,Dzongkha
 ee,Ewe
 el,Grieks
 en,Engels
+en_AU,"Australisch Engels"
+en_CA,"Canadees Engels"
+en_GB,"Brits Engels"
+en_US,"Amerikaans Engels"
 eo,Esperanto
 es,Spaans
+es_ES,"Europees Spaans"
+es_MX,"Mexicaans Spaans"
 et,Estisch
 eu,Baskisch
 fa,Perzisch
@@ -46,6 +54,8 @@ fi,Fins
 fj,Fijisch
 fo,Faeröers
 fr,Frans
+fr_CA,"Canadees Frans"
+fr_CH,"Zwitsers Frans"
 fy,Fries
 ga,Iers
 gd,Schots-Gaelisch
@@ -114,6 +124,7 @@ nd,Noord-Ndebele
 ne,Nepalees
 ng,Ndonga
 nl,Nederlands
+nl_BE,Vlaams
 nn,"Noors - Nynorsk"
 no,Noors
 nr,Zuid-Ndbele
@@ -129,6 +140,8 @@ pi,Pali
 pl,Pools
 ps,Pashto
 pt,Portugees
+pt_BR,"Braziliaans Portugees"
+pt_PT,"Europees Portugees"
 qu,Quechua
 rm,Reto-Romaans
 rn,Kirundi

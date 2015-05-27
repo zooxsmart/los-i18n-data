@@ -74,6 +74,8 @@ return [
     'pl' => 'Harshen Polan',
     'ps' => 'Pashtanci',
     'pt' => 'Harshen Portugal',
+    'pt_BR' => 'Fotigis (Burazil)',
+    'pt_PT' => 'Yaren Kasar Portugal',
     'ro' => 'Romaniyanci',
     'ru' => 'Rashanci',
     'rw' => 'Kiniyaruwanda',

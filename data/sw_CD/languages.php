@@ -29,6 +29,7 @@ return [
     'en' => 'Kingereza',
     'eo' => 'Kiesperanto',
     'es' => 'Kihispania',
+    'es_ES' => 'Kihispania cha Ulaya',
     'et' => 'Kiestonia',
     'eu' => 'Kibasque',
     'fa' => 'Kiajemi',

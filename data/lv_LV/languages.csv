@@ -31,13 +31,21 @@ cv,čuvašu
 cy,velsiešu
 da,dāņu
 de,vācu
+de_AT,"Austrijas vācu"
+de_CH,"Šveices augšvācu"
 dv,maldīviešu
 dz,dzongke
 ee,evu
 el,grieķu
 en,angļu
+en_AU,"Austrālijas angļu"
+en_CA,"Kanādas angļu"
+en_GB,"Lielbritānijas angļu"
+en_US,"angļu (ASV)"
 eo,esperanto
 es,spāņu
+es_ES,"Eiropas spāņu"
+es_MX,"Meksikas spāņu"
 et,igauņu
 eu,basku
 fa,persiešu
@@ -46,6 +54,8 @@ fi,somu
 fj,fidžiešu
 fo,fēru
 fr,franču
+fr_CA,"Kanādas franču"
+fr_CH,"Šveices franču"
 fy,rietumfrīzu
 ga,īru
 gd,gēlu
@@ -114,6 +124,7 @@ nd,ziemeļndebelu
 ne,nepāliešu
 ng,ndongu
 nl,holandiešu
+nl_BE,flāmu
 nn,jaunnorvēģu
 no,norvēģu
 nr,dienvidndebelu
@@ -129,10 +140,13 @@ pi,pāli
 pl,poļu
 ps,puštu
 pt,portugāļu
+pt_BR,"Brazīlijas portugāļu"
+pt_PT,"Eiropas portugāļu"
 qu,kečvu
 rm,retoromāņu
 rn,rundu
 ro,rumāņu
+ro_MD,moldāvu
 ru,krievu
 rw,kiņaruanda
 sa,sanskrits

@@ -31,13 +31,20 @@ cv,čuvaščina
 cy,valižanščina
 da,danščina
 de,nemščina
+de_AT,"avstrijska nemščina"
+de_CH,"visoka nemščina (Švica)"
 dv,diveščina
 dz,dzonka
 ee,evenščina
 el,grščina
 en,angleščina
+en_AU,"avstralska angleščina"
+en_CA,"kanadska angleščina"
+en_GB,"angleščina (ZK)"
+en_US,"angleščina (ZDA)"
 eo,esperanto
 es,španščina
+es_ES,"iberska španščina"
 et,estonščina
 eu,baskovščina
 fa,perzijščina
@@ -46,6 +53,8 @@ fi,finščina
 fj,fidžijščina
 fo,ferščina
 fr,francoščina
+fr_CA,"kanadska francoščina"
+fr_CH,"švicarska francoščina"
 fy,frizijščina
 ga,irščina
 gd,"škotska gelščina"
@@ -113,6 +122,7 @@ nb,"knjižna norveščina"
 nd,"severna ndebelščina"
 ne,nepalščina
 nl,nizozemščina
+nl_BE,flamščina
 nn,novonorveščina
 no,norveščina
 nr,"južna ndebelščina"
@@ -128,10 +138,13 @@ pi,palijščina
 pl,poljščina
 ps,paštunščina
 pt,portugalščina
+pt_BR,"brazilska portugalščina"
+pt_PT,"iberska portugalščina"
 qu,kečuanščina
 rm,retoromanščina
 rn,rundščina
 ro,romunščina
+ro_MD,moldavščina
 ru,ruščina
 rw,ruandščina
 sa,sanskrt

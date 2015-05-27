@@ -29,12 +29,20 @@ cu,"Hen Slafoneg"
 cy,Cymraeg
 da,Daneg
 de,Almaeneg
+de_AT,"Almaeneg Awstria"
+de_CH,"Almaeneg Safonol y Swistir"
 dv,Difehi
 ee,Ewe
 el,Groeg
 en,Saesneg
+en_AU,"Saesneg Awstralia"
+en_CA,"Saesneg Canada"
+en_GB,"Saesneg (DU)"
+en_US,"Saesneg (UDA)"
 eo,Esperanto
 es,Sbaeneg
+es_ES,"Sbaeneg Ewrop"
+es_MX,"Sbaeneg Mecsico"
 et,Estoneg
 eu,Basgeg
 fa,Perseg
@@ -43,6 +51,8 @@ fi,Ffinneg
 fj,Ffijïeg
 fo,Ffaröeg
 fr,Ffrangeg
+fr_CA,"Ffrangeg Canada"
+fr_CH,"Ffrangeg y Swistir"
 fy,"Ffriseg y Gorllewin"
 ga,Gwyddeleg
 gd,"Gaeleg yr Alban"
@@ -106,6 +116,7 @@ nd,"Ndebele Gogleddol"
 ne,Nepaleg
 ng,Ndonga
 nl,Iseldireg
+nl_BE,Fflemeg
 nn,"Norwyeg Nynorsk"
 no,Norwyeg
 nr,"Ndebele Deheuol"
@@ -121,10 +132,13 @@ pi,Pali
 pl,Pwyleg
 ps,Pashto
 pt,Portiwgeeg
+pt_BR,"Portiwgeeg Brasil"
+pt_PT,"Portiwgeeg Ewrop"
 qu,Quechua
 rm,Romaunsch
 rn,Rwndi
 ro,Rwmaneg
+ro_MD,Moldofeg
 ru,Rwseg
 rw,Ciniarŵandeg
 sa,Sansgrit
