@@ -34,7 +34,7 @@ return [
     'BY' => 'Bɛlarus',
     'BZ' => 'Beliz',
     'CA' => 'Kanada',
-    'CD' => 'Kongo (Zair]',
+    'CD' => 'Kongo (Zair)',
     'CF' => 'Afrika Finimfin Man',
     'CG' => 'Kongo',
     'CH' => 'Swetzaland',

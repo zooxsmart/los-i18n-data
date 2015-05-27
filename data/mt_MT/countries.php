@@ -67,7 +67,7 @@ return [
     'BY' => 'Bjelorussja',
     'BZ' => 'Beliże',
     'CA' => 'Kanada',
-    'CC' => 'Cocos (Keeling] Islands',
+    'CC' => 'Cocos (Keeling) Islands',
     'CD' => 'Democratic Republic of the Congo',
     'CF' => 'Repubblika Afrikana Ċentrali',
     'CG' => 'Kongo',

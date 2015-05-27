@@ -286,5 +286,5 @@ return [
     'ZA' => 'Suðurafrikalýðveldið',
     'ZM' => 'Sambia',
     'ZW' => 'Simbabvi',
-    'ZZ' => '(ukendt område]',
+    'ZZ' => '(ukendt område)',
 ];

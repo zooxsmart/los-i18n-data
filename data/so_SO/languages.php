@@ -66,7 +66,7 @@ return [
     'my' => 'Burmese',
     'ne' => 'Nebaali',
     'nl' => 'Holandays',
-    'nn' => 'Nowrwejiyan (naynoroski]',
+    'nn' => 'Nowrwejiyan (naynoroski)',
     'no' => 'Af Noorwiijiyaan',
     'oc' => 'Okitaan',
     'or' => 'Oriya',

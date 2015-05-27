@@ -180,7 +180,7 @@ return [
     'MF' => 'Svätý Martin',
     'MG' => 'Madagaskar',
     'MH' => 'Marshallove ostrovy',
-    'MK' => 'Macedónsko (BJRM]',
+    'MK' => 'Macedónsko (BJRM)',
     'ML' => 'Mali',
     'MM' => 'Mjanmarsko',
     'MN' => 'Mongolsko',

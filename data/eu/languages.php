@@ -89,7 +89,7 @@ return [
     'ms' => 'malaysiera',
     'mt' => 'maltera',
     'my' => 'burmatarra',
-    'nb' => 'bokmala (Norvegia]',
+    'nb' => 'bokmala (Norvegia)',
     'nd' => 'iparraldeko ndebeleera',
     'ne' => 'nepalera',
     'nl' => 'nederlandera',

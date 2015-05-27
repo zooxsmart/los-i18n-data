@@ -49,7 +49,7 @@ return [
     'fr' => 'prancūzų',
     'fy' => 'vakarų fryzų',
     'ga' => 'airių',
-    'gd' => 'škotų (gėlų]',
+    'gd' => 'škotų (gėlų)',
     'gl' => 'galisų',
     'gn' => 'gvaranių',
     'gu' => 'gudžaratų',

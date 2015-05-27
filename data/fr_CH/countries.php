@@ -71,7 +71,7 @@ return [
     'BZ' => 'Belize',
     'CA' => 'Canada',
     'CC' => 'Îles Cocos',
-    'CD' => 'Congo (RDC]',
+    'CD' => 'Congo (RDC)',
     'CF' => 'République centrafricaine',
     'CG' => 'République du Congo',
     'CH' => 'Suisse',

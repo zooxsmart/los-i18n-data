@@ -252,5 +252,5 @@ return [
     'ZA' => 'Kujalleqafrika',
     'ZM' => 'Zambia',
     'ZW' => 'Zimbabwe',
-    'ZZ' => '(atorsinnaanngitsoq nunap imartaa nunataalu]',
+    'ZZ' => '(atorsinnaanngitsoq nunap imartaa nunataalu)',
 ];

@@ -122,7 +122,7 @@ return [
     'ny' => 'Ċiċewa; Njanġa',
     'oc' => 'Oċċitan',
     'oj' => 'Oġibwa',
-    'om' => 'Oromo (Afan]',
+    'om' => 'Oromo (Afan)',
     'or' => 'Orija',
     'os' => 'Ossettiku',
     'pa' => 'Punġabi',

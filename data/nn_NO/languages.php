@@ -163,7 +163,7 @@ return [
     'tk' => 'turkmensk',
     'tl' => 'tagalog',
     'tn' => 'tswana',
-    'to' => 'tonga (Tonga-øyane]',
+    'to' => 'tonga (Tonga-øyane)',
     'tr' => 'tyrkisk',
     'ts' => 'tsonga',
     'tt' => 'tatarisk',

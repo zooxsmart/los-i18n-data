@@ -62,7 +62,7 @@ return [
     'mt' => 'Ikimaliteze',
     'ne' => 'Ikinepali',
     'nl' => 'Ikinerilande',
-    'nn' => 'Inyenoruveji (Nyonorusiki]',
+    'nn' => 'Inyenoruveji (Nyonorusiki)',
     'no' => 'Ikinoruveji',
     'oc' => 'Inyogusitani',
     'or' => 'Inyoriya',
