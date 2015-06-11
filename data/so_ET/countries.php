@@ -1,8 +1,5 @@
 <?php
 return [
-    0 => 'Afrikada Bari',
-    1 => 'Aasiyada Bari',
-    2 => 'Yurubta Bari',
     'AD' => 'Andora',
     'AE' => 'Imaaraadka Carabta ee Midoobay',
     'AF' => 'Afgaanistaan',

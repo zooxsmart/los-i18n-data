@@ -1,34 +1,4 @@
 iso,name
-0,Mundo
-1,África
-2,"América del Norte"
-3,Suramérica
-4,Oceanía
-5,"África occidental"
-6,Centroamérica
-7,"África oriental"
-8,"África septentrional"
-9,"África central"
-10,"África meridional"
-11,América
-12,Norteamérica
-13,Caribe
-14,"Asia oriental"
-15,"Asia meridional"
-16,"Sudeste asiático"
-17,"Europa meridional"
-18,Australasia
-19,Melanesia
-20,"Región de Micronesia"
-21,Polinesia
-22,Asia
-23,"Asia central"
-24,"Asia occidental"
-25,Europa
-26,"Europa oriental"
-27,"Europa septentrional"
-28,"Europa occidental"
-29,Latinoamérica
 AC,"Isla de la Ascensión"
 AD,Andorra
 AE,"Emiratos Árabes Unidos"
@@ -289,4 +259,3 @@ ZA,Sudáfrica
 ZM,Zambia
 ZW,Zimbabue
 ZZ,"Región desconocida"
-30,Sudamérica
